@@ -25,3 +25,27 @@ Overall, the disaster management system application is a valuable tool that can 
 * **Donors**: The application can also serve as a platform for donors to contribute funds, supplies, and other resources to support disaster relief efforts.
 * **Suppliers of Goods**: The application can help suppliers of essential goods like food, water, and medical supplies to coordinate their efforts and ensure timely delivery to affected areas.
 * **Supply Chain Management**: The application can be used to manage the supply chain of essential resources during a disaster. This can include tracking the delivery of goods, managing inventory, and identifying bottlenecks in the distribution process.
+
+## Key Functionalities
+
+* **Emergency Assistance Enterprise**:
+  * Provides assistance to customers through the Emergency Assistance Organization upon receiving requests from help providers.
+  * Organizes events to raise awareness about disasters and other relevant issues in society.
+  * Raises requests for volunteer participation in events.
+* **Disaster Management Enterprise**:
+  * Receives customer requests and aims to fulfill the; if unable, escalates the request to the Emergency Assistance Provider Organization or Doctor Organization in critical situations.
+  * Responds to fund-raising requests from emergency assistance providers.
+  * Volunteer organization provides volunteers to join the events created by Emergency assistance.
+* **Supply Chain Management Enterprise**:
+  * Provides supplies in response to on-demand requests raised by emergency assistance providers to aid customers.
+  * Donates necessities such as food, clothing, medicine, education, and furniture for the well-being of customers.
+* **Hospital Association Enterprise**:
+  * Receives requests from help providers and provides health and medicinal-related assistance to the customers.
+
+## High Level Component Diagram
+
+![High Level Component Diagram](high_level_component_diagram.jpg)
+
+## UML Class Diagram
+
+![UML Class Diagram](class_diagram.jpg)
